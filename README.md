@@ -46,3 +46,5 @@ Three folders are required
 \-----------------------------------------------------------------------------------------------\
 
 If you have any question, please contact 603092145@qq.com
+Environment: XCode 9.0(9M136h) 
+             iOS 11 developer beta 4 (15A5327g)
